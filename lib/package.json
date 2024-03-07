@@ -1,0 +1,13 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shapes.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },   
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
