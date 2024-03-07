@@ -1,0 +1,20 @@
+{
+  "name": "my-svg-logo",
+  "version": "1.0.0",
+  "description": "Project Description: This project involves creating a Node.js command-line application that generates an SVG logo based on user input, utilizing Object-Oriented Programming principles.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
